@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\helloworld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\helloworld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\helloworld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\helloworld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\PROGRAMMING\\C#_WORKSPACE\\.NET\\Projects\\helloworld\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",

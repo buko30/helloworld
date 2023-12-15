@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int x = int.Parse(Console.ReadLine());
+int y = int.Parse(Console.ReadLine());
+Console.WriteLine(x + y);
